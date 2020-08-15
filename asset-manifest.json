@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/facbook_messanger_clone/static/css/main.0c9043d4.chunk.css",
+    "main.js": "/facbook_messanger_clone/static/js/main.77892be6.chunk.js",
+    "main.js.map": "/facbook_messanger_clone/static/js/main.77892be6.chunk.js.map",
+    "runtime-main.js": "/facbook_messanger_clone/static/js/runtime-main.ca104828.js",
+    "runtime-main.js.map": "/facbook_messanger_clone/static/js/runtime-main.ca104828.js.map",
+    "static/js/2.5180b655.chunk.js": "/facbook_messanger_clone/static/js/2.5180b655.chunk.js",
+    "static/js/2.5180b655.chunk.js.map": "/facbook_messanger_clone/static/js/2.5180b655.chunk.js.map",
+    "index.html": "/facbook_messanger_clone/index.html",
+    "precache-manifest.46985f002361fe6ef39490f8cbc5ab72.js": "/facbook_messanger_clone/precache-manifest.46985f002361fe6ef39490f8cbc5ab72.js",
+    "service-worker.js": "/facbook_messanger_clone/service-worker.js",
+    "static/css/main.0c9043d4.chunk.css.map": "/facbook_messanger_clone/static/css/main.0c9043d4.chunk.css.map",
+    "static/js/2.5180b655.chunk.js.LICENSE.txt": "/facbook_messanger_clone/static/js/2.5180b655.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca104828.js",
+    "static/js/2.5180b655.chunk.js",
+    "static/css/main.0c9043d4.chunk.css",
+    "static/js/main.77892be6.chunk.js"
+  ]
+}
